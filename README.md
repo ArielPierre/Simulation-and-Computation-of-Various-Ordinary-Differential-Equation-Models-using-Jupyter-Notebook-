@@ -12,8 +12,12 @@ This project contains the simulation of two bacterial growth models and the Lotk
 
 ## Visualizations 
 
+Exponential Bacterial Growth 
+
+
 $$
 \frac{dP}{dt} = kP , k = .3 
 $$ 
-Exponential Bacterial Growth 
+
+
 <img width="561" height="413" alt="bacterialgrowthexpotential" src="https://github.com/user-attachments/assets/ffef821f-e88b-4a92-a3df-b327ae6de2df" />

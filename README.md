@@ -16,4 +16,4 @@ $$
 \frac{dP}{dt} = kP , k = .3 
 $$ 
 
-![Exponential Bacterial Growth](bacterialgrowthexponential.png) 
+![Exponential Bacterial Growth](bacterialgrowthexponential.png)

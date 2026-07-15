@@ -2,13 +2,13 @@
 This project contains the simulation of two bacterial growth models and the Lotka-Volterra predatory prey model in jupyter notebook. 
 
 ## Methods 
-Equation integration 
-Equation graphing 
+- Equation integration 
+- Equation graphing 
 
 ## Tools Used 
-Numpy 
-Matplotlib 
-Scipy.integrate
+- Numpy 
+- Matplotlib 
+- Scipy.integrate
 
 ## Visualizations 
 

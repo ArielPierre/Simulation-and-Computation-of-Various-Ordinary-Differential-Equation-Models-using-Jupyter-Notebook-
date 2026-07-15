@@ -1,3 +1,4 @@
+<img width="561" height="413" alt="bacterialgrowthexpotential" src="https://github.com/user-attachments/assets/c7684c91-8d04-4432-ae4f-e879a73984c7" />
 ## Simulation and Computation of Various Ordinary Differential Equation Models using Jupyter Notebook 
 This project contains the simulation of two bacterial growth models and the Lotka-Volterra predatory prey model in jupyter notebook. 
 
